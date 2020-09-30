@@ -1,0 +1,58 @@
+.Sinscrire{
+    background: black;
+    width: 300px;
+    height: 450px;
+    position: relative;
+    margin: 6% auto;
+    padding: 5px;
+
+
+
+}
+.Sinscrire h1{
+    text-align: center;
+    font-size: 40px;
+	background: #ff555b;
+    color:#FFFFFF;
+}
+
+.Sinscrire-form{
+
+    width: 250px ;
+    margin: auto;
+    padding: 0 10px;
+    overflow: hidden;
+}
+.variables-dentree-s{
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 16px 0;
+    border: 0;
+    background: rgb(56, 50, 50);
+    padding: 20px 40px;
+    outline: none;
+    color: white;
+    transition: 0.5s;
+    box-shadow: 10px 10px #ff555b;
+
+}
+
+.Sinscrire-btn{
+    width:200px;
+	height: 45px;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(90deg, #3918ca,#f53ca2);
+    color:#FFFFFF;
+    margin-top: 3% ;
+    margin-top:20px;
+    border-radius: 30px;
+    border: 0px;
+    
+    outline: none;
+
+
+
+
+}
